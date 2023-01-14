@@ -4,3 +4,5 @@
 
 Simply add these folders to your Flipper Zero via qFlipper
 ![](https://snipboard.io/L1M3Oe.jpg)
+
+CVS buttons added by [jimithelinuxguy](https://github.com/jimilinuxguy "jimithelinuxguy")
